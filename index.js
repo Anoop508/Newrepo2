@@ -47,7 +47,7 @@ app.post("/compile", (req, res) => {
 			console.log(response.data)
 		}).catch((error)=>{
 			res.send(error.data)
-			console.log(error.data);
+			console.log(error.data)
 		});
 })
 
