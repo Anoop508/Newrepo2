@@ -27,7 +27,7 @@ app.post("/compile", (req, res) => {
 		// "language": language,
 		"input": "",
 		"code" : code,
-		 "lang": "python3",
+		 "lang": "Python",
 		//  "versionIndex": "0",
 		//  "clientId": "c0a58042b45adabe3c665135d8bb5b75",
 		//  "clientSecret":"acb8f2923608eeb72810c2268267d4ea488ee4ded25ac49c979f1e650d8023a0"
